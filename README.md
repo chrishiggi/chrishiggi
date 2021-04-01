@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chrishiggi
-- 👀 I’m interested in software architecture
+- 👋 Hi, I’m @chrishiggi a software architect
+- 👀 I’m interested in software architecture, data modeling, computer graphics, data science, and AI
 - 🌱 I’m currently learning about microservice technologies and enhancing my knowledge around C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
