@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrishiggi a software architect
-- 👀 I’m interested in software architecture, data modeling, computer graphics, data science, and AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software architecture, data engineering, data modeling, computer graphics, data science, and AI
+- 🌱 I’m currently learning and developing in Python at my job, but have years of experience developing in C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
