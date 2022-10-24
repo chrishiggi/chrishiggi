@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chrishiggi a software architect
+- 👋 Hi, I’m @chrishiggi a software engineer
 - 👀 I’m interested in software architecture, data engineering, data modeling, computer graphics, data science, and AI
-- 🌱 I’m currently learning and developing in Python at my job, but have years of experience developing in C# and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Unity and Unreal Engine 5 so that I can transition my career into software game development.
 
 <!---
 chrishiggi/chrishiggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
